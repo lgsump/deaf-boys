@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "\"Deaf Boys\": Memory and Identity in Satire" ] },
+    "summary": { "en": [ "A critical look into the use and context of Harry Shearer's song \"Deaf Boys\". " ] },
+    "items": [
+    ]
+}
